@@ -1,12 +1,12 @@
 {
-    "name": "ANNIE X MUSIC",
+    "name": "PENGUIN X MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+    "logo": "https://telegra.ph/file/062324af220aeddc3ad07.jpg",
     "keywords": [
         "python3",
         "telegram",
         "bot",
-        "Jarvis",
+        "penguin",
         "MusicBot",
         "telegram-bot",
         "pyrogram"
