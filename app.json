@@ -1,7 +1,7 @@
 {
     "name": "ALPHA X MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "",
+    "logo": "https://telegra.ph/file/8fa7669b03524dda79b30.jpg",
     "keywords": [
         "python3",
         "telegram",
